@@ -1,0 +1,34 @@
+body {
+	background-image: url('my reputation.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+  	background-size: cover;
+}
+#hp{
+	color: green;
+}
+#lp {
+	color: orangered;
+}
+		h1 {
+			text-align: center;
+			color: blue;
+			text
+		}
+		p{
+			text-align: center;
+		}
+		div{
+			text-align: center;
+		}
+		.linkto {
+			background-color: yellow;
+		}
+		.container {
+			background-color: purple;
+			width: 20%;
+			margin: auto;
+			border: 5px solid;
+			border-color: black;
+			padding: 30px;
+		}
